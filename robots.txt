@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /scripts/reflink.js
+Disallow: /js/reflink.js
